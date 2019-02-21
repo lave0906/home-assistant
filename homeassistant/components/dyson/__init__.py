@@ -8,7 +8,7 @@ from homeassistant.const import (
 from homeassistant.helpers import discovery
 import homeassistant.helpers.config_validation as cv
 
-REQUIREMENTS = ['https://github.com/mylukin/libpurecoollink/archive/master.zip#libpurecoollink==0.4.2']
+REQUIREMENTS = ['https://github.com/lave0906/libpurecoollink/archive/master.zip#libpurecoollink==0.4.2'] 
 
 _LOGGER = logging.getLogger(__name__)
 
